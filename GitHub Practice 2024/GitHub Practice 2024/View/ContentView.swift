@@ -18,7 +18,7 @@ struct ContentView: View {
                 }
             }
         }
-        .navigationTitle("나의 다짐")
+        .navigationTitle("나의 다짐 마늘")
         .listStyle(.inset)
         .padding()
     }
